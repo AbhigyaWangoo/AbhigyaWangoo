@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhigya</h1>
-<h3 align="center">Diving deep into Systems for Machine Learning (LLMs)</h3>
+<h3 align="center">Diving deep into Systems for Machine Learning</h3>
 
 - 🔭 I’m currently working on [Hatch](hatchrecruiting.com)
 
