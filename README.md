@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhigya</h1>
 <h3 align="center">Diving deep into Systems for Machine Learning</h3>
 
-- 🔭 I’m currently working on [Hatch](https://hatchrecruiting.com)
+- 🔭 I’m currently working on [Hatch](https://www.hatchrecruiting.com/)
 
 - 🌱 I’m currently learning **rethinkdb & llamaindex**
 
