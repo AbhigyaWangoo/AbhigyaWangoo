@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhigya</h1>
 <h3 align="center">Diving deep into Systems for Machine Learning</h3>
 
-- 🔭 I’m currently working on [Hatch](https://www.hatchrecruiting.com/)
+- 🔭 I’m currently working on [Vidar]
 
-- 🌱 I’m currently learning **rethinkdb & llamaindex**
+- 🌱 I’m currently learning about **Vector storage systems & RAG**
 
-- 💬 Ask me about **CoT, ToT, Replicated Storage, and more!**
+- 💬 Ask me about **Prompt engineering (CoT, ToT, DSPy), C programming, and more!**
 
 - 📫 How to reach me **abhigyawangoo@gmail.com**
 
