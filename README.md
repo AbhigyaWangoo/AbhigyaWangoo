@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhigya</h1>
 <h3 align="center">Diving deep into Systems for Machine Learning</h3>
 
-- 🔭 I’m currently working on building RAGs, Guardrails, Fine-tuning, and Vector stores.
+- 🔭 Currently building agents with humans in the loop
 
-- 💬 Ask me about **Prompt engineering (CoT, ToT, DSPy), RAG, C programming, and more!**
+- 💬 Ask me about **Autonomous agents, Distributed systems, and more!**
 
 - 📫 How to reach me **abhigyawangoo@gmail.com**
 
