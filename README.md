@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhigya</h1>
 <h3 align="center">Diving deep into Systems for Machine Learning</h3>
 
-- 🔭 Currently building agents with humans in the loop
+- 🔭 Currently building AI agents to streamline system maintenance and operational burden.
 
-- 💬 Ask me about **Autonomous agents, Distributed systems, and more!**
+- 💬 Ask me about **Autonomous agents, Distributed systems, Evaluating Agents, and more!**
 
 - 📫 How to reach me **abhigyawangoo@gmail.com**
 
