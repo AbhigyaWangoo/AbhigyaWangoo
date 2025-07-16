@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhigya</h1>
 <h3 align="center">Diving deep into Systems for Machine Learning</h3>
 
-- 🔭 Currently building AI agents to streamline system maintenance and operational burden.
+- 🔭 Currently building AI agents at oleve.co
 
-- 💬 Ask me about **Autonomous agents, Distributed systems, Evaluating Agents, and more!**
+- 💬 Ask me about **Agentic memory, Distributed systems, search + vision evals, and anything AI engineering**
 
-- 📫 How to reach me **abhigyawangoo@gmail.com**
+- 📫 How to reach me **abhigyawangoo [at] gmail dot com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
