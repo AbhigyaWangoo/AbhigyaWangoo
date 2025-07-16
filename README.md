@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhigya</h1>
 <h3 align="center">Diving deep into Systems for Machine Learning</h3>
 
-- 🔭 Currently founding AI eng at (Oleve)[oleve.co]
+- 🔭 Currently founding AI eng at [Oleve](oleve.co)
 
 - 💬 Ask me about **Agentic memory, Distributed systems, search + vision evals, and anything AI engineering**
 
